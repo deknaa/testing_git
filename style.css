@@ -7,8 +7,9 @@ body {
     font-size: 36px;
     margin: 40px 100px;
     font-family: Poppins;
+    color: blue;
 }
 
 .nav ul li a{
-    text-decoration: none;
+    
 }
