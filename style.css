@@ -9,4 +9,6 @@ body {
     font-family: Poppins;
 }
 
-.nav ul {}
+.nav ul li a{
+    text-decoration: none;
+}
