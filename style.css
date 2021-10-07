@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.logo h3 {
+    font-size: 36px;
+    margin: 40px 100px;
+    font-family: Poppins;
+}
+
+.nav ul {}
